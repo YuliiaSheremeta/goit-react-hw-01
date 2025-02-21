@@ -1,0 +1,16 @@
+.statusOff{
+color: red;
+}
+.statusOn{
+color: green;
+}
+.item{
+ 
+    border: 2px solid black;
+    border-radius: 6px;
+  
+}
+.image{
+   margin: 0 auto;
+   padding-top: 10px;
+}
