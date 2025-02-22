@@ -1,0 +1,21 @@
+.table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.tr{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+.thead{
+    background-color: rgb(54, 54, 54);
+}
+.theadText{
+    color: white;
+}
+.backgroundFirst{
+    background-color: white;
+}
+.backgroundSecond{
+    background-color: lightgray;
+}
